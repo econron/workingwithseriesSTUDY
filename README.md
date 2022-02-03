@@ -1,0 +1,2 @@
+# workingwithseriesSTUDY
+working with シリーズの文章を読みながら動かして勉強した結果
